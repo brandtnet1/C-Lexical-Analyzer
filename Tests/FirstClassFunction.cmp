@@ -1,0 +1,29 @@
+<PROGRAM, 3>
+<NAME, FirstClassFunction, 3>
+<COLON, 3>
+<SUB, 5>
+<NAME, create, 5>
+<LEFT_PAREN, 5>
+<RIGHT_PAREN, 5>
+<COLON, 5>
+<SUB, 6>
+<NAME, inner, 6>
+<LEFT_PAREN, 6>
+<RIGHT_PAREN, 6>
+<COLON, 6>
+<PRINT, 7>
+<STRING, Inner function., 7>
+<END, 8>
+<RETURN, 10>
+<NAME, inner, 10>
+<END, 11>
+<NAME, f, 13>
+<ASSIGN, 13>
+<NAME, create, 13>
+<LEFT_PAREN, 13>
+<RIGHT_PAREN, 13>
+<NAME, f, 14>
+<LEFT_PAREN, 14>
+<RIGHT_PAREN, 14>
+<END, 15>
+<EOF, 15>

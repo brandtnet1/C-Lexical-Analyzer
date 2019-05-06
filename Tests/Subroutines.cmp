@@ -1,0 +1,36 @@
+<PROGRAM, 6>
+<NAME, Subroutines, 6>
+<COLON, 6>
+<SUB, 8>
+<NAME, double, 8>
+<LEFT_PAREN, 8>
+<RIGHT_PAREN, 8>
+<COLON, 8>
+<NAME, a, 9>
+<ASSIGN, 9>
+<NAME, a, 9>
+<TIMES, 9>
+<INTEGER, 2, 9>
+<END, 10>
+<SUB, 12>
+<NAME, quadruple, 12>
+<LEFT_PAREN, 12>
+<RIGHT_PAREN, 12>
+<COLON, 12>
+<NAME, double, 13>
+<LEFT_PAREN, 13>
+<RIGHT_PAREN, 13>
+<NAME, double, 14>
+<LEFT_PAREN, 14>
+<RIGHT_PAREN, 14>
+<END, 15>
+<NAME, a, 17>
+<ASSIGN, 17>
+<INTEGER, 10, 17>
+<NAME, quadruple, 18>
+<LEFT_PAREN, 18>
+<RIGHT_PAREN, 18>
+<PRINT, 19>
+<NAME, a, 19>
+<END, 21>
+<EOF, 21>

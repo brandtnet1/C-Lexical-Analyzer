@@ -1,0 +1,69 @@
+<PROGRAM, 3>
+<NAME, ListPrimes, 3>
+<COLON, 3>
+<SUB, 6>
+<NAME, is_prime, 6>
+<LEFT_PAREN, 6>
+<NAME, n, 6>
+<RIGHT_PAREN, 6>
+<COLON, 6>
+<NAME, prime, 7>
+<ASSIGN, 7>
+<INTEGER, 1, 7>
+<FOR, 11>
+<NAME, i, 11>
+<ASSIGN, 11>
+<INTEGER, 2, 11>
+<TO, 11>
+<NAME, n, 11>
+<MINUS, 11>
+<INTEGER, 1, 11>
+<COLON, 11>
+<IF, 12>
+<NAME, n, 12>
+<MOD, 12>
+<NAME, i, 12>
+<EQUAL, 12>
+<INTEGER, 0, 12>
+<COLON, 12>
+<NAME, prime, 13>
+<ASSIGN, 13>
+<INTEGER, 0, 13>
+<END, 14>
+<END, 15>
+<RETURN, 17>
+<NAME, prime, 17>
+<END, 18>
+<SUB, 22>
+<NAME, main, 22>
+<LEFT_PAREN, 22>
+<RIGHT_PAREN, 22>
+<COLON, 22>
+<NAME, limit, 23>
+<ASSIGN, 23>
+<INTEGER, 100, 23>
+<FOR, 25>
+<NAME, value, 25>
+<ASSIGN, 25>
+<INTEGER, 2, 25>
+<TO, 25>
+<NAME, limit, 25>
+<COLON, 25>
+<IF, 26>
+<NAME, is_prime, 26>
+<LEFT_PAREN, 26>
+<NAME, value, 26>
+<RIGHT_PAREN, 26>
+<EQUAL, 26>
+<INTEGER, 1, 26>
+<COLON, 26>
+<PRINT, 27>
+<NAME, value, 27>
+<END, 28>
+<END, 29>
+<END, 30>
+<NAME, main, 34>
+<LEFT_PAREN, 34>
+<RIGHT_PAREN, 34>
+<END, 36>
+<EOF, 36>

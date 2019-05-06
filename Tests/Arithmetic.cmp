@@ -1,0 +1,24 @@
+<PROGRAM, 1>
+<NAME, Arithmetic, 1>
+<COLON, 1>
+<NAME, first_var, 3>
+<ASSIGN, 3>
+<INTEGER, 1, 3>
+<NAME, secondVar, 4>
+<ASSIGN, 4>
+<NAME, first_var, 4>
+<PLUS, 4>
+<INTEGER, 2, 4>
+<NAME, var3, 5>
+<ASSIGN, 5>
+<NAME, foo, 5>
+<TIMES, 5>
+<LEFT_PAREN, 5>
+<NAME, secondVar, 5>
+<DIVIDE, 5>
+<INTEGER, 3, 5>
+<RIGHT_PAREN, 5>
+<PRINT, 7>
+<NAME, var3, 7>
+<END, 8>
+<EOF, 8>
